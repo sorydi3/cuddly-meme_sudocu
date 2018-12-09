@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ibrahima22/CLionProjects/Eda/P2/Backtracking/Sudoku.cpp
+iostream
+-
+Sudoku.h
+/home/ibrahima22/CLionProjects/Eda/P2/Backtracking/Sudoku.h
+
+/home/ibrahima22/CLionProjects/Eda/P2/Backtracking/Sudoku.h
+vector
+-
+
+/home/ibrahima22/CLionProjects/Eda/P2/Backtracking/main.cpp
+iostream
+-
+string
+-
+Sudoku.h
+/home/ibrahima22/CLionProjects/Eda/P2/Backtracking/Sudoku.h
+
